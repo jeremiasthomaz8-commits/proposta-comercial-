@@ -7,12 +7,12 @@ Abra `dist/index.html` no navegador ou execute `node preview.cjs` e acesse http:
 
 ## Personalizar
 Edite `dist/config.js`:
-- `clientLogo`: caminho da logo real do cliente, por exemplo `assets/logo-cliente.webp`. Copie o arquivo para `dist/assets`.
+- `clientLogo`: foto do cliente na capa, atualmente `assets/foto-cliente.png`.
 - `clientName`: nome do cliente.
 - `whatsappUrl`: endereço real, por exemplo `https://wa.me/55DDDNUMERO`.
 - `designerLogo`: marca da parceria na capa.
 
-Sem WhatsApp configurado, o botão abre um aviso de contato disponível em breve. Sem logo do cliente, aparece um espaço reservado identificado.
+Sem WhatsApp configurado, o botão abre um aviso de contato disponível em breve. A foto do cliente aparece ao lado da marca de Jeremias na capa.
 
 ## Arquivos
 - `dist/index.html`: conteúdo e estrutura.
