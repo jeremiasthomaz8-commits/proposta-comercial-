@@ -49,3 +49,8 @@ h2{font-size:clamp(38px,4.7vw,76px);letter-spacing:-.06em;line-height:1.1;font-w
 .partnership .brand-slot{min-height:88px}
 .partnership #designer-logo{width:56px;height:56px;object-fit:contain}
 .partnership .client-photo img{width:60px;height:60px;border-radius:50%;object-fit:cover;border:2px solid #ffffff55;box-shadow:0 4px 18px #0004}
+
+/* SVG evita a conversão das setas em emojis coloridos no iOS. */
+.arrow-icon{display:inline-block;width:1em;height:1em;vertical-align:-.125em;flex-shrink:0;overflow:visible}
+.about-title-mark,.experience-arrow{flex-shrink:0}
+.page-controls button{display:grid;place-items:center}
