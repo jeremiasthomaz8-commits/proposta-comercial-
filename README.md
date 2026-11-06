@@ -20,7 +20,7 @@ Sem WhatsApp configurado, o botão abre um aviso de contato disponível em breve
 - `dist/app.js`: navegação, progresso e contato.
 - `dist/assets`: foto e logo fornecidas e fonte Sora local.
 
-Foto original: 200 × 200 pixels. Substitua `jeremias.jpg` por uma versão maior para melhorar a nitidez em telas grandes.
+Foto da seção Quem sou eu: retrato em cores fornecido pelo usuário, em assets/jeremias-retrato.png.
 
 ## Verificação
 Sintaxe JavaScript validada com Node. Prévia HTTP respondeu 200. A inspeção visual foi bloqueada por falha de inicialização da ferramenta de navegador.
